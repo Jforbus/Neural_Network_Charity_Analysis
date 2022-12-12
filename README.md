@@ -77,8 +77,8 @@ The primary model is evaluated:
 
     5. Drop APPLICATION_TYPE.
         - Dropping Application type marginally hinders the model.
-
-
+        
+        
     6 . Additional Neurons per Layer, Additional Layer, Filter for most important Variables, Decrease bins for Class and App type.
         - These changes do not benefit model performance.
 
