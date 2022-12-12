@@ -102,7 +102,7 @@ The primary model is evaluated:
     - Adjusted learning rate: .03, .05
     - Removal of various features
 
-### Trials 1 - 7 failed to increase accuracy above 73.5%.
+### Trials 1 - 7 failed to increase accuracy above 72.6%.
 Models saved under models/*Trial_x*, weights under checkpoints/*Trial_x*.
 ![trial_7_score](https://github.com/Jforbus/Neural_Network_Charity_Analysis/blob/main/Resources/trial_7_score.png)
 
